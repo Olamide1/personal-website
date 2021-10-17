@@ -40,6 +40,8 @@ providing excellent customer service combined with technology.
   of Kenya. 
   I had also co-founded a platform for creators to get support from their audience via tips called  <b><a href="https://useshukran.com">Shukran.</a></b>
 </p>
+
+Play with my chatbot resume here - <a href="https://chats.landbot.io/v3/H-980334-Z96UMYAUAXLRZOEL/index.html" target="_blank">my resume.</a>
 </div>
 
     <div class="block is-size-6">

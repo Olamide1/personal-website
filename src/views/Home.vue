@@ -24,13 +24,7 @@
     <div class="navbar-item">
       <a href="https://chats.landbot.io/v3/H-980334-Z96UMYAUAXLRZOEL/index.html" target="_blank">My resume</a>
     </div>
-    <div class="navbar-item">
-        <div class="buttons">
-          <button class="button is-dark">
-            <strong>🌖</strong>
-          </button>
-        </div>
-    </div>
+   
   </div>
   </div>
 </nav>
@@ -54,7 +48,7 @@
 
 
 <div class="has-text-justified">
-  <section class="section is-medium">
+  <section class="section is-small">
   <h1 class="title is-size-1">My philosophy</h1>
   <h2 class="subtitle is-size-4">
     I build using a simple <strong>Philosophy</strong>, they're simple and they are-
@@ -65,6 +59,7 @@
           <p class="card-header-title is-size-2">Simplicity</p>
   <div class="card-content">
     <div class="content is-size-4">
+      I believe all products should be simple and straight forward in UI/UX. 
     </div>
   </div>
 </div>
@@ -145,6 +140,12 @@ export default {
   name: 'Home',
   components: {
     
+  },
+  methods: {
+     
   }
 }
 </script>
+<style scoped>
+
+</style>
